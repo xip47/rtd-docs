@@ -12,9 +12,11 @@ Contents:
    :caption: Contenido
    :name: masterIndex
    :maxdepth: 2
-   :glob:
-
-   content/*
+   
+   content/requeriments
+   content/install
+   content/sphinx
+   content/publish
 
 Indices and tables
 ==================
