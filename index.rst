@@ -6,8 +6,6 @@
 Read The Docs & Sphinx
 ====================================
 
-Contents:
-
 .. toctree::
    :caption: Contenido
    :name: masterIndex
